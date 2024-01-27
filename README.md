@@ -46,25 +46,25 @@ PiML supports a growing list of inherently interpretable models. For simplicity,
 
 PiML supports a growing list of inherently interpretable models. For simplicity, we only list the models and the references. The following list of interpretable models are included PiML toolbox V0.5 (latest update: May 4, 2023).
 
-GLM: Linear/logistic regression with 
+- GLM: Linear/logistic regression with 
  and/or 
  regularization [Hastie2015]
 
-GAM: Generalized additive models using B-splines [Serven2018]
+- GAM: Generalized additive models using B-splines [Serven2018]
 
-Tree: Decision tree for classification and regression [Pedregosa2011]
+- Tree: Decision tree for classification and regression [Pedregosa2011]
 
-FIGS: Fast interpretable greedy-tree sums [Tan2022]
+- FIGS: Fast interpretable greedy-tree sums [Tan2022]
 
-XGB1: Extreme gradient boosted trees of depth 1, using optimal binning [Chen2015], [Guillermo2020]
+- XGB1: Extreme gradient boosted trees of depth 1, using optimal binning [Chen2015], [Guillermo2020]
 
-XGB2: Extreme gradient boosted trees of depth 2, with purified effects [Chen2015], [Lengerich2020]
+- XGB2: Extreme gradient boosted trees of depth 2, with purified effects [Chen2015], [Lengerich2020]
 
-EBM: Explainable boosting machine [Lou2013], [Nori2013]
+- EBM: Explainable boosting machine [Lou2013], [Nori2013]
 
-GAMI-Net: Generalized additive model with structured interactions [Yang2021b]
+- GAMI-Net: Generalized additive model with structured interactions [Yang2021b]
 
-ReLU-DNN: Deep ReLU networks using Aletheia unwrapper and sparsification [Sudjianto2020]
+- ReLU-DNN: Deep ReLU networks using Aletheia unwrapper and sparsification [Sudjianto2020]
 
 ## 🧅🍄🥯 Diagnostic Suite 🥯🍄🧅
 PiML comes with a continuously enhanced suite of diagnostic tests for arbitrary supervised machine learning models under regression and binary classification settings. Below is a list of the supported general-purpose tests with brief descriptions.
