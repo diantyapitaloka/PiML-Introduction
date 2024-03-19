@@ -2,7 +2,8 @@
 - PiML (read -ML, /`pai·`em·`el/) is an integrated and open-access Python toolbox for interpretable machine learning model development and model diagnostics.
 - It is designed with machine learning workflows in both low-code and high-code modes, including data pipeline, model training, model interpretation and explanation, and model diagnostics and comparison.
 - The toolbox supports a growing list of interpretable models (e.g., GAM, GAMI-Net, XGB2) with inherent local and/or global interpretability.
-- It also supports model-agnostic explainability tools (e.g., PFI, PDP, LIME, SHAP) and a powerful suite of model-agnostic diagnostics (e.g., weakness, uncertainty, robustness, fairness).
+- It also supports model-agnostic explainability tools (e.g., PFI, PDP, LIME, SHAP)
+- A powerful suite of model-agnostic diagnostics (e.g., weakness, uncertainty, robustness, fairness).
 - Integration of PiML models and tests to existing MLOps platforms for quality assurance are enabled by flexible high-code APIs.
 - Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and validation in banking. 
 
