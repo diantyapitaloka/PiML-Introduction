@@ -12,9 +12,7 @@
 - Comprehensive Fairness Auditing, The framework includes dedicated metrics to detect potential algorithmic bias and ensure that model outcomes remain equitable across different demographic groups
 - Prediction Uncertainty Quantification, This tool provides methods to calculate confidence intervals for individual outputs which is essential for high-stakes decision-making environments
 - Regulatory Compliance Support, Many specialized tests within the library are specifically tailored to meet the strict model risk management standards required in the financial sector
-
-Seamless Ecosystem Integration
-The high-code API maintains full compatibility with Scikit-Learn structures to allow for effortless implementation within existing machine learning pipelines
+- Seamless Ecosystem Integration, The high-code API maintains full compatibility with Scikit-Learn structures to allow for effortless implementation within existing machine learning pipelines
 
 Automated Technical Reporting
 The system streamlines the documentation process by generating detailed diagnostic summaries that are ready for stakeholder review and project archival
