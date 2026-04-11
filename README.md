@@ -6,7 +6,7 @@
 - A powerful suite of model-agnostic diagnostics (e.g., weakness, uncertainty, robustness, fairness).
 - Integration of PiML models and tests to existing MLOps platforms for quality assurance are enabled by flexible high-code APIs.
 - Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and validation in banking.
-- Interactive Web Dashboard, The toolbox features a user-friendly GUI that enables researchers to perform comprehensive data exploration and model validation through a visual interface
+- Interactive Web Dashboard, The toolbox features a user-friendly GUI that enables researchers to perform comprehensive data exploration and model validation through a visual interface.
 - Localized Weakness Identification, PiML automatically scans for specific data slices where the model underperforms to help developers pinpoint and fix regional accuracy issues
 - Dynamic Robustness Assessment, Users can simulate various data perturbations to evaluate how consistently the model performs when facing noisy or unexpected input shifts
 - Comprehensive Fairness Auditing, The framework includes dedicated metrics to detect potential algorithmic bias and ensure that model outcomes remain equitable across different demographic groups
