@@ -5,7 +5,30 @@
 - It also supports model-agnostic explainability tools (e.g., PFI, PDP, LIME, SHAP)
 - A powerful suite of model-agnostic diagnostics (e.g., weakness, uncertainty, robustness, fairness).
 - Integration of PiML models and tests to existing MLOps platforms for quality assurance are enabled by flexible high-code APIs.
-- Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and validation in banking. 
+- Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and validation in banking.
+- Interactive Web Dashboard
+The toolbox features a user-friendly GUI that enables researchers to perform comprehensive data exploration and model validation through a visual interface
+
+Localized Weakness Identification
+PiML automatically scans for specific data slices where the model underperforms to help developers pinpoint and fix regional accuracy issues
+
+Dynamic Robustness Assessment
+Users can simulate various data perturbations to evaluate how consistently the model performs when facing noisy or unexpected input shifts
+
+Comprehensive Fairness Auditing
+The framework includes dedicated metrics to detect potential algorithmic bias and ensure that model outcomes remain equitable across different demographic groups
+
+Prediction Uncertainty Quantification
+This tool provides methods to calculate confidence intervals for individual outputs which is essential for high-stakes decision-making environments
+
+Regulatory Compliance Support
+Many specialized tests within the library are specifically tailored to meet the strict model risk management standards required in the financial sector
+
+Seamless Ecosystem Integration
+The high-code API maintains full compatibility with Scikit-Learn structures to allow for effortless implementation within existing machine learning pipelines
+
+Automated Technical Reporting
+The system streamlines the documentation process by generating detailed diagnostic summaries that are ready for stakeholder review and project archival
 
 ## 🧅🍄🥯 Toolbox Introduction 🥯🍄🧅
 - Supervised machine learning has being increasingly used in domains where decision making can have significant consequences. However, the lack of interpretability of many machine learning models makes it difficult to understand and trust the model-based decisions. This leads to growing interest in interpretable machine learning and model diagnostics. There emerge algorithms and packages for model-agnostic explainability, including the inspection module (including permutation feature importance, partial dependence) in scikit-learn [Pedregosa2011] and various others, e.g., [Kokhlikyan2020], [Klaise2021], [Baniecki2021], [Li2022].
