@@ -10,9 +10,7 @@
 - Localized Weakness Identification, PiML automatically scans for specific data slices where the model underperforms to help developers pinpoint and fix regional accuracy issues
 - Dynamic Robustness Assessment, Users can simulate various data perturbations to evaluate how consistently the model performs when facing noisy or unexpected input shifts
 - Comprehensive Fairness Auditing, The framework includes dedicated metrics to detect potential algorithmic bias and ensure that model outcomes remain equitable across different demographic groups
-
-Prediction Uncertainty Quantification
-This tool provides methods to calculate confidence intervals for individual outputs which is essential for high-stakes decision-making environments
+- Prediction Uncertainty Quantification, This tool provides methods to calculate confidence intervals for individual outputs which is essential for high-stakes decision-making environments
 
 Regulatory Compliance Support
 Many specialized tests within the library are specifically tailored to meet the strict model risk management standards required in the financial sector
