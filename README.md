@@ -4,7 +4,7 @@
 - The toolbox supports a growing list of interpretable models (e.g., GAM, GAMI-Net, XGB2) with inherent local and/or global interpretability.
 - It also supports model-agnostic explainability tools such as (e.g., PFI, PDP, LIME, SHAP)
 - A powerful suite of model-agnostic diagnostics (e.g., weakness, uncertainty, robustness, fairness).
-- Integration of PiML models and tests to existing MLOps platforms for quality assurances are enabled by flexible high-code APIs.
+- Integration of PiML models and tests to existing MLOps platforms for quality assurances are enabled by flexiblity high-code APIs.
 - Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and validation in banking.
 - Interactive Web Dashboard, The toolbox features a user-friendly GUI that enables researchers to perform comprehensive data exploration and model validation through a visual interface.
 - Localized Weakness Identification, PiML automatically scans for specific data slices where the model underperforms to help developers pinpoint and fix regional accuracy issues.
