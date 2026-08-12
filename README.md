@@ -15,6 +15,7 @@
 - Seamless Ecosystem Integration, The high-code API maintains full compatibility with Scikit-Learn structures to allow for many effortless implementation within the existing machine learning pipelines
 - Automated Technical Reporting, The system streamlines the documentation process by generating detailed diagnostic summaries that are ready for stakeholder review and project archival
 - Integrated Data Profiling & Preprocessing: Includes built-in Exploratory Data Analysis (EDA) tools, feature selection, binning, and missing value handling tailored specifically to optimize data quality before training interpretable models.
+- Custom Diagnostic Rule Extensions: Features a flexible, modular architecture allowing developers to integrate proprietary metrics, domain-specific stress tests, and custom constraint checks.
 - Interpretability-Conscious Hyperparameter Tuning: Offers hyperparameter optimization routines engineered to explicitly balance predictive performance with model sparsity, simplicity, and human readability.
 - Data Drift & Distribution Shift Diagnostics: Provides diagnostic tools to evaluate how feature distribution shifts over time impact model stability and cause performance degradation in production.
 - Multi-Dimensional Model Leaderboards: Enables side-by-side benchmarking of interpretable models against conventional black-box algorithms across accuracy, interpretability score, and risk metrics simultaneously.
