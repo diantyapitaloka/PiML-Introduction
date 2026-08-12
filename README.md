@@ -15,6 +15,7 @@
 - Seamless Ecosystem Integration, The high-code API maintains full compatibility with Scikit-Learn structures to allow for many effortless implementation within the existing machine learning pipelines
 - Automated Technical Reporting, The system streamlines the documentation process by generating detailed diagnostic summaries that are ready for stakeholder review and project archival
 - Integrated Data Profiling & Preprocessing: Includes built-in Exploratory Data Analysis (EDA) tools, feature selection, binning, and missing value handling tailored specifically to optimize data quality before training interpretable models.
+- Black-Box Model Surrogacy: Supports training transparent surrogate models (such as decision trees, shallow GAMs, or rule sets) to approximate and explain complex, opaque black-box models.
 
 ## 🧅🍄🥯 Toolbox Introduction 🥯🍄🧅
 - Supervised machine learning has being increasingly used in domains where decision making with can have significant consequences. However, the lack of interpretability of many machine learning models makes it difficult to understand and trust the model-based decisions. This leads to growing interest in interpretable machine learning and model diagnostics. Hence, there emerge algorithms and packages for model-agnostic explainability, including the inspection module (including permutation feature importance, partial dependence) in scikit-learn [Pedregosa2011] and various others, e.g., [Kokhlikyan2020], [Klaise2021], [Baniecki2021], [Li2022].
