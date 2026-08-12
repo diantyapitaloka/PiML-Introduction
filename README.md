@@ -15,6 +15,7 @@
 - Seamless Ecosystem Integration, The high-code API maintains full compatibility with Scikit-Learn structures to allow for many effortless implementation within the existing machine learning pipelines
 - Automated Technical Reporting, The system streamlines the documentation process by generating detailed diagnostic summaries that are ready for stakeholder review and project archival
 - Integrated Data Profiling & Preprocessing: Includes built-in Exploratory Data Analysis (EDA) tools, feature selection, binning, and missing value handling tailored specifically to optimize data quality before training interpretable models.
+- Global-to-Local Explanation Consistency Checks: Provides cross-verification tools to ensure instance-level local explanations (e.g., LIME, SHAP) align logically with overall global feature interactions (e.g., PDP, ALE).
 - Exportable Model Cards & Governance Artifacts: Generates standardized Model Cards and structured audit logs to facilitate internal model risk management (MRM) reviews and executive sign-offs.
 - Subgroup Overfitting & Vulnerability Detection: Equips practitioners with specialized utilities to detect localized overfitting and accuracy drop-offs within specific demographic segments or edge cases.
 - Custom Diagnostic Rule Extensions: Features a flexible, modular architecture allowing developers to integrate proprietary metrics, domain-specific stress tests, and custom constraint checks.
