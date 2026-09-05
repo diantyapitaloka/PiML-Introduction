@@ -8,7 +8,7 @@
 - Furthermore, PiML toolbox comes with a comprehensive user guide and hands-on examples, including the applications for model development and also validation in a banking.
 - Interactive Web Dashboard, The toolbox features a user-friendly GUI that enables researchers to perform comprehensive data exploration and model validation through a visual interface.
 - Localized Weakness Identification, PiML automatically scans for specific data slices where the model underperforms to help developers pinpoint and fix regional accuracy issues.
-- Dynamic Robustness Assessment, Users can simulate various data perturbations to evaluate how consistently the model performs when facing noisy or unexpected input shifts.
+- Dynamic Robustness Assessment, Users can simulate various data perturbations to evaluate how consistently the model will performs when facing noisy or unexpected input shifts.
 - Comprehensive Fairness Auditing, The framework includes dedicated metrics to detect best potential algorithmic bias and ensure that model the outcomes remain equitable across different demographic groups
 - Prediction Uncertainty Quantification, This tool provides methods to calculate confidence interval for the individuals outputs which is too essential for the high-stakes decision-making environments
 - Regulatory Compliance Support, Many specialized tests within the library are specifically tailored to meet the strict model risk management like standards required in the financial sector
