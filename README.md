@@ -34,7 +34,7 @@
 - It is our goal to design an integrated Python toolbox for interpretable machine learning, for both model development and model diagnostics. Hence, this is particularly needed for model risk management in banking, where it is a routine exercise to run model validation including evaluation of model conceptual soundness and outcome testing from various angles. An inherently interpretable machine learning model tends to be more conceptually sound, while it is subject to model diagnostics in terms of accuracy, weakness detection, fairness, uncertainty, robustness and also resilience. The PiML toolbox we develop is such a unique Python tool that supports not only a growing list of interpretable models, but also an enhanced suite of multiple diagnostic tests. It has been adopted by multiple bank since its first launch on May 4, 2022.
 
 ## 🧅🍄🥯 Toolbox Design 🥯🍄🧅
-PiML toolbox is designed to support machine learning workflows by both low-code interface and high-code APIs; see Figure below for the overall design.
+PiML toolbox is designed to support machine learning workflows by both low-code interface and also high-code APIs; see Figure below for the overall design.
 
 ![image](https://github.com/diantyapitaloka/PiML-Introduction/assets/147487436/db6b69e4-554a-42dd-a905-662a37590b50)
 
