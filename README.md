@@ -51,7 +51,7 @@ For PiML-trained models by either low-code interface or high-code APIs, there ar
 
 - model_explain(): this unified API works for arbitrary models including black-box models and glass-box models. It provides post-hoc global explainability through permutation feature importance (PFI) and partial dependence plot (PDP) through sklearn.inspect module, accumulated local effects [Apley2016], and post-hoc local explainability through LIME [Ribeiro2016] and SHAP [Lundberg2017].
 
-- model_diagnose(): this unified API works for arbitrary models and performs model diagnostics to be discussed in section_4. It is designed to cover standardized general-purpose tests based on model data and predictions, i.e., model-agnostic tests. There is no need to access the model internals.
+- model_diagnose(): this unified API works for arbitrary models and performs model diagnostics to be discussed in section_4. It is designed to cover standardized general-purpose tests based on model data and predictions, i.e., model-agnostic tests. There is no need to access the model internal.
 
 - model_compare(): this unified API is to compare two or three models at the same time, in terms of model performance and other diagnostic aspects. By inspecting the dashboard of graphical plots, one can easily rank models under comparison.
 
